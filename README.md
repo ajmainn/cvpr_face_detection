@@ -1,1 +1,1 @@
-# cvpr_face_detection
+Worked on Face Detection. Used dataset of class students images.
